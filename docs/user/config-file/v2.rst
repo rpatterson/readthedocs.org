@@ -69,7 +69,7 @@ Additional formats of the documentation to be built,
 apart from the default HTML.
 
 :Type: ``list``
-:Options: ``htmlzip``, ``pdf``, ``epub``, ``all``
+:Options: ``htmlzip``, ``pdf``, ``epub``
 :Default: ``[]``
 
 Example:
